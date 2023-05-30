@@ -1,4 +1,4 @@
-# SalesforceDataExportClean
+# Salesforce Data Export Clean
 
 This program cleans a folder's set of .csv files, that come from the Salesforce data backup export service, with 'All Objects' checked.
 For the purpose of archiving and easier data loading that gets rid of unused files and columns.
