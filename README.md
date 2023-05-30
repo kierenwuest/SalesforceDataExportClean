@@ -12,7 +12,7 @@ In the terminal, enter "python3 _cleancsvs.py" in the folder containing the file
 
 This code was created by Kieren Wuest with Python 3.9.6 and the help of GPT-4.
 
-v0.2 This version handles NULL bytes and replaces them with space characters
-v0.4 This version gives better feedback and fixes History and Summary files.
-v0.5 This version creates a log file called _cleancsvs_log.txt with the outputs of the programs actions for posterity
-v0.6 This version outputs log actions (via use of the 'logging' module) to both termial and cleancsvs_log.txt
+v0.2 This version handles NULL bytes and replaces them with space characters.  
+v0.4 This version gives better feedback and fixes History and Summary files.   
+v0.5 This version creates a log file called _cleancsvs_log.txt with the outputs of the programs actions for posterity.  
+v0.6 This version outputs log actions (via use of the 'logging' module) to both termial and cleancsvs_log.txt.  
