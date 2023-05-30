@@ -7,7 +7,7 @@ It attempts to:
 1. Remove irrelevant files (That have no data or specific identified irrelevant objects that contain data)
  - Files containing 'History' or 'Summary'
  - Files starting with 'TenantSecurity' 
-3. Remove columns from the csv's that have either no data or systemmod stamps.
+2. Remove columns from the csv's that have either no data or systemmod stamps.
 
 To run the program, ensure Pyton 3 is installed.
 In the terminal, enter "python3 _cleancsvs.py" in the folder containing the files
