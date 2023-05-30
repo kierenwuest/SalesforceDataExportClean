@@ -6,7 +6,7 @@ For the purpose of archiving and easier data loading that gets rid of unused fil
 It attempts to:
 1. Remove irrelevant files (That have no data or specific identified irrelevant objects that contain data)
  - Files containing 'History' or 'Summary'
- - fiels starting with 'TenantSecurity' 
+ - Files starting with 'TenantSecurity' 
 3. Remove columns from the csv's that have either no data or systemmod stamps.
 
 To run the program, ensure Pyton 3 is installed.
