@@ -1,7 +1,7 @@
 # Salesforce Data Export Clean
 
 This program cleans a folder's set of .csv files, that come from the Salesforce data backup export service, with 'All Objects' checked and the ISO-8859-1 Encoding setting.   
-Not considering images documents and attachments, not considering Salesforce files CRM Content document versions.
+Not considering images documents and attachments, not considering Salesforce Files and CRM Content document versions.
 For the purpose of archiving and easier data loading that gets rid of unused files and columns.
 
 It attempts to:
