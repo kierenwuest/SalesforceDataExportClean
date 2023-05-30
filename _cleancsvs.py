@@ -2,7 +2,7 @@ import os
 import csv
 import logging
 
-# This program cleans a folder's set of .csv files, that come from the Salesforce data backup export service, with 'All Objects' checked.
+# This program cleans a folder's set of .csv files, that come from the Salesforce data backup export service, with 'All Objects' checked and the ISO-8859-1 Encoding setting.
 #
 # It attempts to:
 # 1. Remove irrelevant files (That have no data or identified irrelevant objects that contain data)
