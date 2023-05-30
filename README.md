@@ -4,7 +4,7 @@ This program cleans a folder's set of .csv files, that come from the Salesforce 
 For the purpose of archiving and easier data loading that gets rid of unused files and columns.
 
 It attempts to:
-1. Remove irrelevant files (That have no data or identified irrelevant objects that contain data)
+1. Remove irrelevant files (That have no data or specific identified irrelevant objects that contain data)
 2. Remove columns from the csv's that have either no data or systemmod stamps.
 
 To run the program, ensure Pyton 3 is installed.
